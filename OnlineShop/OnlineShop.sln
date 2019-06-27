@@ -13,8 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.Infra.Data", "On
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.UI.Mvc", "OnlineShop.UI.Mvc", "{39C14CBC-6469-4750-B274-82877F8BC44A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.RestApi", "OnlineShop.RestApi", "{96860334-EA8C-4BB2-AE6E-5FAE04435FB9}"
-EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
