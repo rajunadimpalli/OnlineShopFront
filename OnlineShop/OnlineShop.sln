@@ -3,6 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.Application", "OnlineShop.Application", "{D1031F67-2D0C-4288-B33E-A9BC3B1C1157}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.Domain", "OnlineShop.Domain", "{ADCD42B3-552D-4554-81E7-DD743C2FC8DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.Infra.IoC", "OnlineShop.Infra.IoC", "{D8BE0D3A-E068-43EE-B766-0B0487B89396}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.Infra.Data", "OnlineShop.Infra.Data", "{1AD1D746-FA03-4560-8550-D6DD84164594}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.UI.Mvc", "OnlineShop.UI.Mvc", "{39C14CBC-6469-4750-B274-82877F8BC44A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.RestApi", "OnlineShop.RestApi", "{96860334-EA8C-4BB2-AE6E-5FAE04435FB9}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
