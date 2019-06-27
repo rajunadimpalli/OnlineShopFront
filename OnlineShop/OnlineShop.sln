@@ -15,9 +15,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.UI.Mvc", "Online
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineShop.RestApi", "OnlineShop.RestApi", "{97BB5550-E6F4-4C7C-A663-9355A2F7AB91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Mvc", "OnlineShop.Mvc\OnlineShop.Mvc.csproj", "{5EB97970-5DE8-4F02-8BF0-71751C40137B}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB97970-5DE8-4F02-8BF0-71751C40137B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB97970-5DE8-4F02-8BF0-71751C40137B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB97970-5DE8-4F02-8BF0-71751C40137B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB97970-5DE8-4F02-8BF0-71751C40137B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5EB97970-5DE8-4F02-8BF0-71751C40137B} = {39C14CBC-6469-4750-B274-82877F8BC44A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B4C5207B-579E-4F71-ACF6-99CE71D91707}
